@@ -1,4 +1,4 @@
-# Hi, I'm Kyryll 👋
+# Hi, I'm Kiro 👋
 
 I'm a **Human-Computer Interaction** student at the **University of Hamburg** with a background in **Applied Mathematics**. I build software at the intersection of spatial computing, AI-driven data analytics, and embedded systems.
 
