@@ -40,5 +40,5 @@ I'm a **Human-Computer Interaction** student at the **University of Hamburg** wi
 
 ### Contact
 
-- **LinkedIn:** [linkedin.com/in/kyryll-hryhorenko](https://www.linkedin.com)
+- **LinkedIn:** [linkedin.com/in/kyryll-hryhorenko-1b9aa2252](https://www.linkedin.com)
 - **Email:** kyryll.hryhorenko@gmail.com
